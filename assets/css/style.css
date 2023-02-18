@@ -8,7 +8,7 @@ body {
 
 /* Root */
 :root {
-  --heading-color: #173b6c; /* #173b6c #040b14 */
+  --heading-color: #040b14; /* #173b6c */
 }
 
 a {
