@@ -6,6 +6,11 @@ body {
   color: #272829;
 }
 
+/* Root */
+:root {
+  --heading-color: #040b14; /* #173b6c */
+}
+
 a {
   color: #149ddd;
   text-decoration: none;
@@ -303,7 +308,7 @@ section {
   font-size: 32px;
   font-weight: bold;
   margin-bottom: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 15px;
   position: relative;
   color: var(--heading-color);
 }
