@@ -1,4 +1,4 @@
-# DOM-change-tab
+# My portfolio
 - JavaScript 
 - HTML5
 - Css3
