@@ -1,7 +1,11 @@
 # My portfolio
-- JavaScript 
-- HTML5
-- Css3
-- can you view [my Project](https://toshpulatovalimardon.github.io/MyPortfolio/)
+My best portfolio
+
+- Html5
+- Css3 
+- Bootstrap5
+- JavaScript
+- Can you view my [project](https://toshpulatovalimardon.github.io/MyPortfolio/)
+
 # Author 
 (2023) Toshpo'latov Alimardon
